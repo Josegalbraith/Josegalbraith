@@ -6,7 +6,10 @@
 int main(){
 	printf("Program Penjumlahan,Pengurangan,Perkalian, dan Turunan Polinomial \n");
 	printf("(ax^2+b) (operator) (cx+d) \n");	
-	penjumlahan ()
+	penjumlahan ();
+	pengurangan ();
+	perkalian ();
+	turunan ();
 }
 int penjumlahan (){
 	int a,b,c,d ;
